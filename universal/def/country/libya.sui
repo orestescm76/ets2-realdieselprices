@@ -1,0 +1,17 @@
+
+country_data: country.data.libya
+{
+	name: "Libya"
+	name_localized: "@@libya@@"
+	country_code: "LAR"
+	pos:(60000, 0, 103000)
+	fuel_price: 0.09
+	country_id: 120
+	lights_mandatory: false
+	leftside_traffic: false
+	driving_tired_offence: true
+
+	time_zone: 120		# +2 hours in minutes
+	time_zone_name: "EET"
+}
+

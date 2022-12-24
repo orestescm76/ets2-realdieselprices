@@ -1,0 +1,17 @@
+
+country_data: country.data.westbank
+{
+	name: "West Bank"
+	name_localized: "@@westbank@@"
+	country_code: "PS"
+	pos:(117500, 0, 89000)
+	fuel_price: 2.000
+	country_id: 61
+	lights_mandatory: false
+	leftside_traffic: false
+	driving_tired_offence: true
+
+	time_zone: 180		# +3 hours in minutes
+	time_zone_name: "@@tz_eest@@"
+}
+
