@@ -2,7 +2,7 @@ SiiNunit
 { 
 mod_package : .package_name
 {
-package_version: "v30-10-22"
+package_version: "v24-12-22"
 author: "orestescm76"
 category[]:	"ui"
 icon: "icon.jpg"

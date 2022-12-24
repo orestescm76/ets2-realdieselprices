@@ -7,7 +7,7 @@ country_data: country.data.turkey
 	name_localized: "@@turkey@@"
 	country_code: "TR"
 	pos:(103184, 0, 55303)
-	fuel_price: 1.419
+	fuel_price: 1.12
 	lights_mandatory: false
 	driving_tired_offence: true
 	

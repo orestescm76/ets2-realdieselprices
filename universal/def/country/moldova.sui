@@ -7,7 +7,7 @@ country_data: country.data.moldova
 	name_localized: "@@moldova@@"
 	country_code: "MD"
 	pos:(69000, 0, 14500)
-	fuel_price: 1.465
+	fuel_price: 1.09
 	lights_mandatory: false	
 	driving_tired_offence: true
 	

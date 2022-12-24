@@ -7,7 +7,7 @@ country_data: country.data.svalbard
 	name_localized: "@@svalbard@@"
 	country_code: "N"
 	pos:(19400, 0, -181000)
-	fuel_price: 2.87
+	fuel_price: 2.4563
 	lights_mandatory: true
 	driving_tired_offence: true
 		

@@ -5,7 +5,7 @@ country_data: country.data.egypt
 	name_localized: "@@egypt@@"
 	country_code: "ET"
 	pos:(100000, 0, 103000)
-	fuel_price: 0.369
+	fuel_price: 0.443
 	country_id: 108
 	lights_mandatory: false
 	leftside_traffic: false

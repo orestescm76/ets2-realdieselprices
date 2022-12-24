@@ -7,7 +7,7 @@ country_data: country.data.liecht
 	name_localized: "@@liecht@@"
 	country_code: "FL"
 	pos:(-3600, 0, 20000)
-	fuel_price: 2.140
+	fuel_price: 1.819
 	lights_mandatory: false
 	driving_tired_offence: true
 		

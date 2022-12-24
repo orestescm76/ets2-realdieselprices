@@ -7,7 +7,7 @@ country_data: country.data.nireland
 	name: ""
 	country_code: "GB"
 	pos:(-64500, 0, -43000)
-	fuel_price: 2.60
+	fuel_price: 2.4563
 	lights_mandatory: false
 	imperial_units: true
 	leftside_traffic: true

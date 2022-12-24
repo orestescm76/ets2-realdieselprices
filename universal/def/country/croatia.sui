@@ -7,7 +7,7 @@ country_data: country.data.croatia
 	name_localized: "@@croatia@@"
 	country_code: "HR"
 	pos:(23600, 0, 29500)
-	fuel_price: 1.889
+	fuel_price: 1.67
 	lights_mandatory: false
 	driving_tired_offence: true
 		

@@ -8,7 +8,7 @@ country_data: country.data.estonia
 
 	pos: (45000, 0, -47500)
 
-	fuel_price: 1.974
+	fuel_price: 1.70
 
 	lights_mandatory: true
 	driving_tired_offence: true

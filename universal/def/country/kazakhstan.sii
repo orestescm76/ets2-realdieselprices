@@ -8,7 +8,7 @@ country_code: "KZ"
 
 pos:(186285, 0, -51043.9)
 
-fuel_price: 0.508
+fuel_price: 0.480
 
 lights_mandatory: true
 driving_tired_offence: true

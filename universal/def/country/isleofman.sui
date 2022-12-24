@@ -7,7 +7,7 @@ country_data: country.data.iom
 	name_localized: "@@isleofman@@"
 	country_code: "GBM"
 	pos:(-53980, 0, -36245)
-	fuel_price: 2.61
+	fuel_price: 2.4563
 	lights_mandatory: false
 	imperial_units: true
 	leftside_traffic: true

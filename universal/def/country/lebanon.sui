@@ -5,7 +5,7 @@ country_data: country.data.lebanon
 	name_localized: "@@lebanon@@"
 	country_code: "RL"
 	pos:(115500, 0, 78500)
-	fuel_price: 1.048
+	fuel_price: 1.009
 	country_id: 68
 	lights_mandatory: false
 	leftside_traffic: false

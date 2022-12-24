@@ -5,7 +5,7 @@ country_data: country.data.israel
 	name_localized: "@@israel@@"
 	country_code: "IL"
 	pos:(112500, 0, 94700)
-	fuel_price: 1.783
+	fuel_price: 1.823
 	country_id: 60
 	lights_mandatory: false
 	leftside_traffic: false

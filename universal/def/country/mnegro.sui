@@ -6,7 +6,7 @@ country_data: country.data.mnegro
 	name_localized: "@@montenegro@@"
 	country_code: "MNE"
 	pos:(36000, 0, 44000)
-	fuel_price: 1.650
+	fuel_price: 1.510
 	lights_mandatory: true
 	driving_tired_offence: true
 		

@@ -7,7 +7,7 @@ country_data: country.data.greece
 	name_localized: "@@greece@@"
 	country_code: "GR"
 	pos:(47000, 0, 62000)
-	fuel_price: 2.139
+	fuel_price: 1.79
 	lights_mandatory: false
 	driving_tired_offence: true
 		

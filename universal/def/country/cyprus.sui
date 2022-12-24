@@ -7,7 +7,7 @@ country_data: country.data.cyprus
 	name_localized: "@@cyprus@@"
 	country_code: "CY"
 	pos:(100000, 0, 78500)
-	fuel_price: 1.884
+	fuel_price: 1.68
 	lights_mandatory: false
 	imperial_units: false
 	leftside_traffic: true

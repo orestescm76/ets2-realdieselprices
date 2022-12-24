@@ -7,7 +7,7 @@ country_data: country.data.jersey
 	name_localized: "@@jersey@@"
 	country_code: "GBJ"
 	pos:(-47400, 0, 1750)
-	fuel_price: 2.60
+	fuel_price: 2.4563
 	lights_mandatory: false
 	imperial_units: true
 	leftside_traffic: true

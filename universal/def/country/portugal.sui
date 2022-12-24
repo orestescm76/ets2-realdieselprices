@@ -7,7 +7,7 @@ country_data: country.data.portugal
 	name_localized: "@@portugal@@"
 	country_code: "P"
 	pos:(-87870, 0, 49998)
-	fuel_price: 1.953
+	fuel_price: 1.61
 	lights_mandatory: false
 	driving_tired_offence: true
 		

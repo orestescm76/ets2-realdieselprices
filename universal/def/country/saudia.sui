@@ -5,7 +5,7 @@ country_data: country.data.saudia
 	name_localized: "@@saudiarabia@@"
 	country_code: "KSA"
 	pos:(130000, 0, 106000)
-	fuel_price: 0.168
+	fuel_price: 0.252
 	country_id: 79
 	lights_mandatory: false
 	leftside_traffic: false

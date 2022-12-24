@@ -7,7 +7,7 @@ country_data: country.data.spain
 	name_localized: "@@spain@@"
 	country_code: "E"
 	pos:(-57300, 0, 50000)
-	fuel_price: 2.028
+	fuel_price: 1.68
 	lights_mandatory: false
 	driving_tired_offence: true
 		
